@@ -11,16 +11,16 @@ This repository serves as the central hub for a multi-disciplinary ecosystem of 
 | **AI-OS** | Offline, Local-First AI Operating System | [Link](https://github.com/Ishimwekevin-5/AI-First-OS) | 🛠️ Planning |
 | **Local Desktop** | AI-First Native Desktop App (Tauri/Rust) | [Link](https://github.com/Ishimwekevin-5/Local-AI-First-Desktop-Apps) | 🛠️ Planning |
 | **VibeCode** | English-as-a-Language Programming Transpiler | [Link](https://github.com/Ishimwekevin-5/VibeCode) | 🛠️ Planning |
-| **Sovereign Persona** | AI Personnel with Banking & Philanthropy | [Link]() | 🛠️ Planning |
+| **Sovereign Persona** | AI Personnel with Banking & Philanthropy | [Link](https://github.com/Ishimwekevin-5/Sovereign-AI-Workforce-Entity) | 🛠️ Planning |
 
 ---
 
 ## 🧠 Intelligence & Agency (Swarms)
 | Project Name | Concept Description | Repository Link | Status |
 | :--- | :--- | :--- | :--- |
-| **LLM/Chatbot** | Advanced RAG & Long-Context Chatbots | [Link](https://github.com/Ishimwekevin-5/Multimodal-Fusion-Lab) | 🛠️ Planning |
-| **Multi-Model** | Vision-Language-Audio Integrated Pipeline | [Link]() | 🛠️ Planning |
-| **Agent Swarm** | AI Agency & Multi-Agent Orchestrator | [Link]() | 🛠️ Planning |
+| **LLM/Chatbot** | Advanced RAG & Long-Context Chatbots | [Link](https://github.com/Ishimwekevin-5/Advanced-RAG-Chatbot-Prototype) | 🛠️ Planning |
+| **Multi-Model** | Vision-Language-Audio Integrated Pipeline | [Link](https://github.com/Ishimwekevin-5/Multimodal-Fusion-Lab) | 🛠️ Planning |
+| **Agent Swarm** | AI Agency & Multi-Agent Orchestrator | [Link](https://github.com/Ishimwekevin-5/Agentic-Business-Swarm) | 🛠️ Planning |
 | **Causality AI** | Algorithm for Cause-and-Effect Inference | [Link]() | 🛠️ Planning |
 | **MCP + Empathy** | Model Context Protocol with Humanity Layer | [Link]() | 🛠️ Planning |
 
