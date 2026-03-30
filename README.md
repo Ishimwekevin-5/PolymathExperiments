@@ -9,7 +9,7 @@ This repository serves as the central hub for a multi-disciplinary ecosystem of 
 | Project Name | Concept Description | Repository Link | Status |
 | :--- | :--- | :--- | :--- |
 | **AI-OS** | Offline, Local-First AI Operating System | [Link](https://github.com/Ishimwekevin-5/AI-First-OS) | 🛠️ Planning |
-| **Local Desktop** | AI-First Native Desktop App (Tauri/Rust) | [Link]() | 🛠️ Planning |
+| **Local Desktop** | AI-First Native Desktop App (Tauri/Rust) | [Link](https://github.com/Ishimwekevin-5/Local-AI-First-Desktop-Apps) | 🛠️ Planning |
 | **VibeCode** | English-as-a-Language Programming Transpiler | [Link]() | 🛠️ Planning |
 | **Sovereign Persona** | AI Personnel with Banking & Philanthropy | [Link]() | 🛠️ Planning |
 
