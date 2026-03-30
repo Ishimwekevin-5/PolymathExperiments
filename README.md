@@ -18,7 +18,7 @@ This repository serves as the central hub for a multi-disciplinary ecosystem of 
 ## 🧠 Intelligence & Agency (Swarms)
 | Project Name | Concept Description | Repository Link | Status |
 | :--- | :--- | :--- | :--- |
-| **LLM/Chatbot** | Advanced RAG & Long-Context Chatbots | [Link]() | 🛠️ Planning |
+| **LLM/Chatbot** | Advanced RAG & Long-Context Chatbots | [Link](https://github.com/Ishimwekevin-5/Multimodal-Fusion-Lab) | 🛠️ Planning |
 | **Multi-Model** | Vision-Language-Audio Integrated Pipeline | [Link]() | 🛠️ Planning |
 | **Agent Swarm** | AI Agency & Multi-Agent Orchestrator | [Link]() | 🛠️ Planning |
 | **Causality AI** | Algorithm for Cause-and-Effect Inference | [Link]() | 🛠️ Planning |
